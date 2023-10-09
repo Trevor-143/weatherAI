@@ -15,6 +15,7 @@ type option = {
     label: string;
 } | null
 
+
 type cityOption = {
     value: {
         latitude: string,
